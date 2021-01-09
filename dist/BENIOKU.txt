@@ -1,0 +1,16 @@
+﻿// Öncelikle XAMPP kurulumu yapılıp Apache ve MySQL başlatılmalı.
+// Web tarayıcısı üzerinden localhost/phpmyadmin adresine gidilmeli.
+//books_library adında bir veritabanı oluşturun.
+// İmport(İçe Aktar) kısmından program dosyasında bulunan books_library.sql dosyası yüklenmeli. 
+// SistemKutuphane.jar dosyası ile programı çalıştırabilirsiniz. (Hata halinde SistemKutuphane.bat da kullanılabilir.)
+
+Admin ID = admin
+Admin Sifre = admin
+
+Öğrenci ID = 1170606011
+Öğrenci Sifre = 1170606011
+
+
+
+***Bu işlemlere tamamen veritabanının online host edilmediğinden ihtiyaç duyuyoruz. İşlevsel bir program olabilmesi için programın online olması gerekmektedir.
+ 
